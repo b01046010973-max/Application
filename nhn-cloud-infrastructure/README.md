@@ -26,7 +26,7 @@
 <img width="400" height="150" alt="3-2" src="https://github.com/user-attachments/assets/efd3bfb6-ddd6-4756-b6d7-e7eaac80840d" /><br>
  - 리눅스 파일 시스템 권한 관리를 통해 키페어 파일을 소유자 읽기 전용(chmod 400)으로 변경하여 보안 무결성 확보<br><br>
 <img width="400" height="150" alt="3-3" src="https://github.com/user-attachments/assets/5e7e2018-3b72-48cf-957b-309444c2b4a4" /><br>
- - Private 서버(10.0.2.86) 접속 성공<br>
+ - Private 서버(10.0.2.86) 접속 성공<br><br>
 
 
 
